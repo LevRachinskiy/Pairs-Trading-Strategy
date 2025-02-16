@@ -12,9 +12,9 @@ This repository implements a pairs trading strategy based on a market-neutral ap
 - **Candidate Pairs:** We begin by analyzing stocks from the same sector or ETFs that exhibit correlated behavior. Detailed research notes are provided in `research_notes.md`.
 
 ## Roadmap
-- **Day 1:** Research & Data Preparation
-- **Day 2:** Strategy Development (statistical tests, signal logic, and parameter tuning)
-- **Day 3:** Backtesting & Evaluation (trade simulation, performance metrics, and visualization)
+- **1)** Research & Data Preparation
+- **2)** Strategy Development (statistical tests, signal logic, and parameter tuning)
+- **3)** Backtesting & Evaluation (trade simulation, performance metrics, and visualization)
 
 ## Repository Structure
 - `README.md` – Project overview and documentation.
