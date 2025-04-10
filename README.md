@@ -1,7 +1,7 @@
 # Basic Pairs Trading Strategy
 
 ## Overview
-This repository implements a pairs trading strategy based on a market-neutral approach, utilizing statistical methods such as co-integration and z-score thresholds to identify trading opportunities.
+This repository implements a pairs-trading strategy based on a market-neutral approach, utilizing statistical methods such as co-integration and z-score thresholds to identify trading opportunities.
 
 ## Data Sources
 - **Yahoo Finance:** Historical price data is downloaded using the `yfinance` library.
