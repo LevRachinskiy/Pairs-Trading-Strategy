@@ -5,7 +5,7 @@ This repository implements a pairs-trading strategy based on a market-neutral ap
 
 ## Data Sources
 - **Yahoo Finance:** Historical price data is downloaded using the `yfinance` library.
-- **Time Horizon:** Data covers the past 5 years with daily observations.
+- **Time Horizon:** Data covererage is over the past 5 years with daily observations.
 
 ## Research
 - **Concepts:** The strategy is built on pairs trading principles, focusing on market neutrality, co-integration, and mean reversion.
